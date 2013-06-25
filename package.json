@@ -10,7 +10,7 @@
     }
   ],
   "dependencies": {
-    "azure-cli": "~0.6.10",
+    "azure-cli": "git://github.com/WindowsAzure/azure-sdk-tools-xplat#release-0.6.17",
     "async": "~0.1.22",
     "underscore": "~1.4.3"
   },
